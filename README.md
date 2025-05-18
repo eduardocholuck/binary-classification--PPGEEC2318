@@ -1,12 +1,12 @@
 # 🎓 Model Card – Binary Classification Project
 
-*Professor: Ivanovitch M. Silva*
+*Professor:* *[Ivanovitch Medieros Dantas da Silva](https://github.com/ivanovitchm)* 
 
-*Student: Luiz Eduardo Nunes Cho-Luck - 20241012311*
+*Student: [Luiz Eduardo Nunes Cho-Luck](https://github.com/eduardocholuck) - 20241012311*
 
 ## Overview
 
-This project aims to predict MBA admission outcomes based on features such as GPA, GMAT score, work experience and others. The model was developed for the ***Project #01 for PPGEEC2318 - Machine Learning.***
+This project aims to predict admission outcomes based on features such as GPA, GMAT score, work experience and others. The model was developed for the ***Project #01 for PPGEEC2318 - Machine Learning.***
 
 ## Model
 
