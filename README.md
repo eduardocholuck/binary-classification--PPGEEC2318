@@ -83,7 +83,7 @@ The following evaluation metrics were used:
 
 Coonfusion Matrix:
 
-![alt text](image.png)
+![!\[alt text\](image.png)](images/CM.png)
 
 
 ## Evaluation Metrics
