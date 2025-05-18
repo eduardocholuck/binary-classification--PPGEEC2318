@@ -67,7 +67,9 @@ The model was trained using a simple neural network built with PyTorch. The main
 - **Epochs**: 200
 - **Validation Strategy**: 80/20 train-validation split using `train_test_split`
 
-During training, loss values were monitored across epochs and a confusion matrix was computed to evaluate model performance.
+During training, loss values were monitored across epochs for traing and validation, as you can see below and a confusion matrix was computed to evaluate model performance. 
+
+![alt text](images/train_val_loss.png)
 
 ## Metrics
 
