@@ -115,3 +115,5 @@ torch.save(model.state_dict(), "mba_model.pth")
 This model is a proof of concept developed for academic purposes. Although it shows promising results, it is not recommended for production use without further generalization and fairness assessments.
 
 For more details, please see this [notebook](model_train.ipynb).
+
+Special thanks to the original dataset contributors and Luísa Christina de Souza that helped me with the project.
