@@ -85,7 +85,7 @@ The following evaluation metrics were used:
 
 Confusion Matrix:
 
-![(image.png)](images/CM.png)
+![confusion_matrix](images/CM.png)
 
 
 ## Evaluation Metrics
