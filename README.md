@@ -83,9 +83,9 @@ The following evaluation metrics were used:
 
 ## Results
 
-Coonfusion Matrix:
+Confusion Matrix:
 
-![!\[alt text\](image.png)](images/CM.png)
+![alt text](images/CM.png)
 
 
 ## Evaluation Metrics
