@@ -83,9 +83,9 @@ The following evaluation metrics were used:
 
 ## Results
 
-Coonfusion Matrix:
+Confusion Matrix:
 
-![!\[alt text\](image.png)](images/CM.png)
+![(image.png)](images/CM.png)
 
 
 ## Evaluation Metrics
@@ -109,7 +109,7 @@ Coonfusion Matrix:
 The trained model is saved in `.pth` format using:
 
 ```python
-torch.save(model.state_dict(), "mba_model.pth")
+arch.save_checkpoint("model/checkpoint_model.pth")
 ```
 
 ## Final Remarks
