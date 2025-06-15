@@ -69,7 +69,7 @@ The model was trained using a simple neural network built with PyTorch. The main
 
 During training, loss values were monitored across epochs for traing and validation, as you can see below and a confusion matrix was computed to evaluate model performance. 
 
-![alt text](images/train_val_loss.png)
+![loss](images/train_val_loss.png)
 
 ## Metrics
 
@@ -83,9 +83,9 @@ The following evaluation metrics were used:
 
 ## Results
 
-Coonfusion Matrix:
+Confusion Matrix:
 
-![!\[alt text\](image.png)](images/CM.png)
+![confusion_matrix](images/CM.png)
 
 
 ## Evaluation Metrics
@@ -109,7 +109,7 @@ Coonfusion Matrix:
 The trained model is saved in `.pth` format using:
 
 ```python
-torch.save(model.state_dict(), "mba_model.pth")
+arch.save_checkpoint("model/checkpoint_model.pth")
 ```
 
 ## Final Remarks
