@@ -118,4 +118,4 @@ This model is a proof of concept developed for academic purposes. Although it sh
 
 For more details, please see this [notebook](model_train.ipynb).
 
-Special thanks to the original dataset contributors and Luísa Christina de Souza that helped me with the project.
+Special thanks to the original dataset contributors and [Luísa Christina de Souza](https://github.com/luisachristina) who helped me with this project.
